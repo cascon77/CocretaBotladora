@@ -2,7 +2,7 @@ Términos de Servicio (ToS) – CocretaBotladora
 
 Última actualización: 17/11/2025
 
-Estos Términos de Servicio regulan el uso de [Nombre del Bot] (en adelante, “el Bot”), un bot de Discord operado por [tu nombre o alias]. Al invitar o usar el Bot en un servidor, aceptas estos términos.
+Estos Términos de Servicio regulan el uso de CocretaBotladora (en adelante, “el Bot”), un bot de Discord operado por CocretaVoladora. Al invitar o usar el Bot en un servidor, aceptas estos términos.
 
 1. Uso del Bot
 

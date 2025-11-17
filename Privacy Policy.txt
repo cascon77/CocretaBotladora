@@ -1,0 +1,103 @@
+Política de Privacidad – CocretaBotladora
+
+Última actualización: 17/11/2025
+
+Esta Política de Privacidad explica cómo CocretaBotladora (en adelante, “el Bot”) recopila, usa y protege la información de los usuarios dentro de la plataforma Discord. Al usar el Bot, aceptas los términos aquí descritos.
+
+1. Información que recopilamos
+
+El Bot puede recopilar únicamente la información necesaria para funcionar correctamente:
+
+1.1. Datos técnicos automáticos
+
+IDs de usuario
+
+IDs de servidor
+
+IDs de canales
+
+Mensajes que incluyan comandos del Bot
+
+Registros de uso del Bot (logs temporales)
+
+1.2. Datos de configuración
+
+Para funciones específicas, el Bot puede almacenar:
+
+Preferencias del servidor
+
+Ajustes personalizados
+
+Roles o canales configurados por el usuario
+
+Estos datos no incluyen información personal sensible.
+
+2. Uso de la información
+
+El Bot utiliza la información recopilada exclusivamente para:
+
+Procesar comandos
+
+Mantener la configuración del servidor
+
+Mejorar el funcionamiento del Bot
+
+Garantizar seguridad y prevención de abusos
+
+No se utiliza la información con fines comerciales.
+
+3. Almacenamiento y retención
+
+Los datos solo se almacenan durante el tiempo necesario para que el Bot funcione.
+
+La mayoría de los datos son temporales y no se guardan permanentemente.
+
+Las configuraciones sí pueden guardarse de forma indefinida hasta que sean eliminadas manualmente.
+
+4. Compartición de datos
+
+El Bot NO comparte tu información con:
+
+Terceros
+
+Empresas externas
+
+Servicios de análisis
+
+Publicistas
+
+Otros servidores
+
+La información solo es accesible para el desarrollador cuando es necesario para solucionar problemas o mejorar el Bot.
+
+5. Seguridad de los datos
+
+Se aplican medidas razonables para proteger los datos recopilados.
+Sin embargo, debido a la naturaleza de Internet, no se puede garantizar seguridad absoluta.
+
+6. Derechos del usuario
+
+Puedes solicitar en cualquier momento:
+
+La eliminación de todos los datos asociados a tu servidor
+
+Información sobre qué datos han sido almacenados
+
+La corrección o actualización de configuraciones
+
+Para solicitarlo, contacta al desarrollador.
+
+7. Uso por menores de edad
+
+El Bot está destinado a usuarios que cumplan con las normas de Discord.
+No se recopila deliberadamente información de menores de 13 años.
+
+8. Cambios en esta política
+
+La Política de Privacidad puede actualizarse ocasionalmente.
+La fecha de la última actualización se mostrará arriba del documento.
+
+9. Contacto
+
+Para preguntas o solicitudes relacionadas con privacidad, puedes contactar a:
+Discord: CocretaVoladora
